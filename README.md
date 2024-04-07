@@ -33,9 +33,9 @@ Unit testing is an essential practice in modern software development. This cours
 
 ## Get Started
 
-To enroll in the course, click [here](https://www.udemy.com/course/unit-testing-net-applications-with-nunit/?referralCode=19BF374BEE9EB0A185CB).
+To enrol in the course, click [here](https://www.udemy.com/course/unit-testing-net-applications-with-nunit/?referralCode=19BF374BEE9EB0A185CB).
 
-Feel free to explore the code samples and resources provided in this repository to enhance your learning experience.
+Feel free to explore this repository's code samples and resources to enhance your learning experience.
 
 ## More Free Courses on YouTube
 
@@ -44,4 +44,8 @@ Feel free to explore the code samples and resources provided in this repository 
 Subscribe to the Free Technology and Technology Management Courses channel for free lectures about Coding, DevOps, and Technology Management. [Here is the link to the YouTube channel](http://www.youtube.com/@FreeTechnologyLectures).
 
 
+## Buy me a coffee ☕
 
+If you find my work helpful, consider treating me by buying me a coffee!
+
+<a href="https://ko-fi.com/arefkarimi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="ko-fi" height="36"></a>
